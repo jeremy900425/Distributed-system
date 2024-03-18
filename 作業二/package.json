@@ -1,0 +1,15 @@
+{
+  "name": "2021-dslab-rest",
+  "version": "1.0.0",
+  "dependencies": {
+    "fastify": "^3.29.5",
+    "node-fetch": "^2.6.1"
+  },
+  "main": "restful-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
